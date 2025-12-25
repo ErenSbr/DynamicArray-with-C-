@@ -18,7 +18,6 @@ Dinamik bellek yönetimi kullanılarak oluşturulmuş, boyutu otomatik artan/aza
  3. `UniqueArray` (Türetilmiş Sınıf)
 `DynamicArray` sınıfından miras alır. Dizi içerisinde **tekrar eden elemanlara izin vermez**.
 - **Mantık:** `push` işlemi öncesinde elemanın varlığı `contains` metodu ile kontrol edilir.
-Öğrenci No	GitHub Kullanıcı Adı
 ```bash
 ErenSbr
 enesd-r
